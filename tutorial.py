@@ -1,6 +1,11 @@
-from json.tool import main
-
 
 print("hello world!")
-#add second message
-print("hello amelia!")
+print("yaa")
+# collect users name
+name = input("enter your name")
+
+
+
+print("welcome" + name)
+
+
